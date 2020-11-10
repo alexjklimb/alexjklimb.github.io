@@ -116,7 +116,7 @@ header h1 {
       -ms-flex-align: center;
           align-items: center;
   color: #f5562f;
-  font-weight: bold;
+  font-weight: 400;
   font-size: 25px;
   text-decoration: none;
   height: 30px;
@@ -159,8 +159,8 @@ p {
       -ms-flex-align: center;
           align-items: center;
   color: #f5562f;
-  font-weight: bold;
-  font-size: 20px;
+  font-weight: 400;
+  font-size: 16px;
   text-decoration: none;
   height: 30px;
   width: 120px;
